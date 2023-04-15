@@ -28,7 +28,7 @@ public class Login extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
-        btnLogin = findViewById(R.id.btn_login);
+        btnLogin = findViewById(R.id.btnLogin);
         btnLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -38,7 +38,7 @@ public class Login extends AppCompatActivity {
     }
 
     void handleLoginTest() {
-        editTextUser = findViewById(R.id.input_username);
+        editTextUser = findViewById(R.id.input_user);
         editTextPassword = findViewById(R.id.input_password);
         username= editTextUser.getText().toString();
         password = editTextPassword.getText().toString();

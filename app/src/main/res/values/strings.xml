@@ -1,3 +1,37 @@
 <resources>
+<!--    name app-->
     <string name="app_name">ShoesApp</string>
+    <!--splash-->
+    <string name="heading_splash">OXY SPORTS</string>
+    <!--    onBoard-->
+    <string name="ellipse">ellipse</string>
+    <string name="get_start">Get Started</string>
+    <!--  start  onBoarding-->
+    <string name="slider_image">slider image</string>
+    <!--description -->
+    <string name="heading_onBoarding1">Start Journey With Nike</string>
+    <string name="heading_onBoarding2">Follow Latest Style Shoes</string>
+    <string name="heading_onBoarding3">Summer Shoes Nike 2022</string>
+    <string name="title_onBoarding1">Smart, Gorgeous &amp; Fashionable Collection</string>
+    <string name="title_onBoarding2">There Are Many Beautiful And Attractive Plants To Your Room</string>
+    <string name="title_onBoarding3">Amet Minim Lit Nodeseru Saku Nandu sit Alique Dolor</string>
+    <!--  end  onBoarding-->
+
+    <!--    login and sign up-->
+    <string name="have_account">Already Have an Account?</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">or</string>
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="are_you_have_account">Are you have account? Login Now</string>
+    <string name="user_name">Username</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="re_password">RePassword</string>
+    <string name="login">Login</string>
+    <string name="register_account">Register Account</string>
+    <!--icon-->
+    <string name="google_icon">google icon</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="register_icon">register icon</string>
+
 </resources>
